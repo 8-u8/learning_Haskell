@@ -1,0 +1,1 @@
+runghc hello.hs
